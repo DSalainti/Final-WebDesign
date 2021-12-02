@@ -1,0 +1,190 @@
+ .banner
+   {
+       background-color: aquamarine;
+   }
+
+   .navbar-judul
+   {
+       font-family: 'Cabin', sans-serif;
+       font-weight: 400;
+       size: 24px;
+       color: black;
+   }
+
+   .judul-banner
+   {
+       font-family: Lora;
+       font-size: 36px;
+       font-style: normal;
+       font-weight: 700;
+       line-height: 46px;
+       letter-spacing: 0em;
+       text-align: left;
+       color: black;
+       margin-top: 30px; 
+   }
+
+   .sub-judul-banner
+   {
+       font-family: Lora;
+       font-size: 30px;
+       font-style: normal;
+       font-weight: 500;
+       line-height: 38px;
+       letter-spacing: 0em;
+       text-align: left;
+       color: black;
+   }
+
+   .btn-gabung
+   {
+       background-color: darkgrey;
+       border-radius: 10px;
+       font-family: 'Lora', sans-serif;
+       color: white;
+   }
+
+   .image-banner-1
+   {
+      height: 309px;
+      width: 505px;
+      left: 830px;
+      top: 103px;
+      border-radius: 10px;
+      margin-top: 29px;
+      margin-left: 60px;
+      background-image: url(../img/banner-2.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+   }
+
+   .image-banner-2
+   {
+      height: 412px;
+      width: 310px;
+      left: 730px;
+      top: 183px;
+      border-radius: 10px;
+      margin-top: -220px;
+      background-image: url(../img/banner-3.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin-bottom: 93px;
+   }
+
+   .banner2
+   {
+       background-color: grey;
+   }
+
+   .judul-penawaran
+   {
+       position: absolute;
+       width: 483px;
+       height: 46px;
+       left: 478px;
+       top: 650px;
+       font-family: Lora;
+       font-style: normal;
+       font-weight: bold;
+       font-size: 36px;
+       line-height: 46px;
+       color: #130F49;
+   }
+
+@media only screen and (min-width: 992px)
+{
+     .banner
+   {
+       background-color: aquamarine;
+   }
+
+   .navbar-judul
+   {
+       font-family: 'Cabin', sans-serif;
+       font-weight: 400;
+       size: 24px;
+       color: black;
+   }
+
+   .judul-banner
+   {
+       font-family: Lora;
+       font-size: 36px;
+       font-style: normal;
+       font-weight: 700;
+       line-height: 46px;
+       letter-spacing: 0em;
+       text-align: left;
+       color: black;
+       margin-top: 120px; 
+   }
+
+   .sub-judul-banner
+   {
+       font-family: Lora;
+       font-size: 30px;
+       font-style: normal;
+       font-weight: 500;
+       line-height: 38px;
+       letter-spacing: 0em;
+       text-align: left;
+       color: black;
+   }
+
+   .btn-gabung
+   {
+       background-color: darkgrey;
+       border-radius: 10px;
+       font-family: 'Lora', sans-serif;
+       color: white;
+   }
+
+   .image-banner-1
+   {
+      height: 309px;
+      width: 505px;
+      left: 830px;
+      top: 103px;
+      border-radius: 10px;
+      margin-top: 29px;
+      margin-left: 60px;
+      background-image: url(../img/banner-2.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+   }
+
+   .image-banner-2
+   {
+      height: 412px;
+      width: 310px;
+      left: 730px;
+      top: 183px;
+      border-radius: 10px;
+      margin-top: -220px;
+      background-image: url(../img/banner-3.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin-bottom: 93px;
+   }
+
+   .banner2
+   {
+       background-color: grey;
+   }
+
+   .judul-penawaran
+   {
+       position: absolute;
+       width: 483px;
+       height: 46px;
+       left: 478px;
+       top: 650px;
+       font-family: Lora;
+       font-style: normal;
+       font-weight: bold;
+       font-size: 36px;
+       line-height: 46px;
+       color: #130F49;
+   }
+}
